@@ -1,0 +1,8 @@
+{
+  "ch.opengym.app": {
+    "downloadURL": "https://github.com/TheBlackSide243/openGym/releases/download/plus-{version}/openGym-plus-unsigned.ipa"
+  },
+  "com.local.wardrowbe": {
+    "downloadURL": "https://github.com/TheBlackSide243/wardrowbe/releases/download/ios-{version}/Wardrowbe-{version}-unsigned.ipa"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "name": "TheBlackSide243",
+  "identifier": "io.github.theblackside243.apps",
+  "iconURL": "https://raw.githubusercontent.com/TheBlackSide243/feather-repo/main/icons/repo.png",
+  "website": "https://github.com/TheBlackSide243/feather-repo",
+  "apps": [
+    {
+      "name": "openGym Plus",
+      "bundleIdentifier": "ch.opengym.app",
+      "developerName": "TheBlackSide243 (based on openGym)",
+      "iconURL": "https://raw.githubusercontent.com/TheBlackSide243/feather-repo/main/icons/opengym.png",
+      "localizedDescription": "An unofficial build of openGym with extra features: a Health area with Apple Health and RENPHO, a music bar, machine settings and photos per exercise, health widgets on Home, Settings as a tab. Not affiliated with the original project. AGPL-3.0-or-later; source at github.com/TheBlackSide243/openGym.",
+      "subtitle": "Self-hosted gym and body-weight tracker",
+      "tintColor": "30D158",
+      "versions": [
+        {
+          "version": "1.4.2-3",
+          "date": "2026-10-26T12:12:46Z",
+          "size": 212798960,
+          "downloadURL": "https://github.com/TheBlackSide243/openGym/releases/download/plus-1.4.2-3/openGym-plus-unsigned.ipa"
+        },
+        {
+          "version": "1.4.2-2",
+          "date": "2026-10-25T13:57:49Z",
+          "size": 212796383,
+          "downloadURL": "https://github.com/TheBlackSide243/openGym/releases/download/plus-1.4.2-2/openGym-plus-unsigned.ipa"
+        },
+        {
+          "version": "1.4.2-1",
+          "date": "2026-10-23T16:54:39Z",
+          "size": 212787639,
+          "downloadURL": "https://github.com/TheBlackSide243/openGym/releases/download/plus-1.4.2-1/openGym-plus-unsigned.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.4.2-3",
+      "versionDate": "2026-10-26T12:12:46Z",
+      "size": 212798960,
+      "downloadURL": "https://github.com/TheBlackSide243/openGym/releases/download/plus-1.4.2-3/openGym-plus-unsigned.ipa"
+    },
+    {
+      "name": "Wardrowbe",
+      "bundleIdentifier": "com.local.wardrowbe",
+      "developerName": "TheBlackSide243",
+      "iconURL": "https://raw.githubusercontent.com/TheBlackSide243/feather-repo/main/icons/wardrowbe.png",
+      "localizedDescription": "The Wardrowbe site full screen, sharing photos from other apps, a widget with today's outfit and the weather (with an \"I wore it\" button from iOS 17), photos without their background, shortcuts to Selfie and What to buy. It connects to your own Wardrowbe server.",
+      "subtitle": "Your wardrobe, on your own server",
+      "tintColor": "EC4899",
+      "versions": [
+        {
+          "version": "1.2.0",
+          "date": "2026-10-15T10:32:00Z",
+          "size": 274890,
+          "downloadURL": "https://github.com/TheBlackSide243/wardrowbe/releases/download/ios-1.2.0/Wardrowbe-1.2.0-unsigned.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.2.0",
+      "versionDate": "2026-10-15T10:32:00Z",
+      "size": 274890,
+      "downloadURL": "https://github.com/TheBlackSide243/wardrowbe/releases/download/ios-1.2.0/Wardrowbe-1.2.0-unsigned.ipa"
+    }
+  ],
+  "news": []
+}
