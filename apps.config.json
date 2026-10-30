@@ -4,5 +4,8 @@
   },
   "com.local.wardrowbe": {
     "downloadURL": "https://github.com/TheBlackSide243/wardrowbe/releases/download/ios-{version}/Wardrowbe-{version}-unsigned.ipa"
+  },
+  "com.local.tracklap": {
+    "downloadURL": "https://github.com/TheBlackSide243/feather-repo/releases/download/tracklap-{version}/TrackLap-{version}-unsigned.ipa"
   }
 }
