@@ -113,10 +113,16 @@
       "bundleIdentifier": "com.local.tracklap",
       "developerName": "TheBlackSide243",
       "iconURL": "https://raw.githubusercontent.com/TheBlackSide243/feather-repo/main/icons/tracklap.png",
-      "localizedDescription": "Lap, sector and live delta timing from GPS, for track days: an ESP32-C6 with a u-blox GPS over Bluetooth, the iPhone's own GPS, or a simulated car to try it right away. Worldwide track search as you type, a catalog of 60+ famous circuits and a satellite editor for the start line and sectors. Lap analysis inspired by RaceChrono: compare with any lap or your track record, one cursor across map and charts, corner speeds, where you gain and lose, sectors and a friction circle; voice lap times, GPX and CSV export. In Italian, English, Spanish, French, German and Portuguese.",
+      "localizedDescription": "Lap, sector and live delta timing from GPS, for track days: any ESP32 with Bluetooth and a GPS (firmware installed from the browser at esp32.tbsgaming.win, with a dashboard on the Waveshare ESP32-C6-LCD-1.47), the iPhone's own GPS, or a simulated car to try it right away. Worldwide track search as you type, a catalog of 60+ famous circuits and a satellite editor for the start line and sectors. Lap analysis inspired by RaceChrono: compare with any lap or your track record, one cursor across map and charts, corner speeds, where you gain and lose, sectors and a friction circle; voice lap times, GPX and CSV export. In Italian, English, Spanish, French, German and Portuguese.",
       "subtitle": "GPS lap timer for the track",
       "tintColor": "22D3EE",
       "versions": [
+        {
+          "version": "0.4.0",
+          "date": "2026-10-30T14:15:39Z",
+          "size": 836739,
+          "downloadURL": "https://github.com/TheBlackSide243/feather-repo/releases/download/tracklap-0.4.0/TrackLap-0.4.0-unsigned.ipa"
+        },
         {
           "version": "0.3.0",
           "date": "2026-10-30T08:52:10Z",
@@ -137,10 +143,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "0.3.0",
-      "versionDate": "2026-10-30T08:52:10Z",
-      "size": 816519,
-      "downloadURL": "https://github.com/TheBlackSide243/feather-repo/releases/download/tracklap-0.3.0/TrackLap-0.3.0-unsigned.ipa"
+      "version": "0.4.0",
+      "versionDate": "2026-10-30T14:15:39Z",
+      "size": 836739,
+      "downloadURL": "https://github.com/TheBlackSide243/feather-repo/releases/download/tracklap-0.4.0/TrackLap-0.4.0-unsigned.ipa"
     }
   ],
   "news": []
