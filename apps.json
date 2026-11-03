@@ -113,10 +113,16 @@
       "bundleIdentifier": "com.local.tracklap",
       "developerName": "TheBlackSide243",
       "iconURL": "https://raw.githubusercontent.com/TheBlackSide243/feather-repo/main/icons/tracklap.png",
-      "localizedDescription": "Lap, sector and live delta timing from GPS, for track days: any ESP32 with Bluetooth and a GPS (firmware installed from the browser at esp32.tbsgaming.win, with a dashboard on the Waveshare ESP32-C6-LCD-1.47), the iPhone's own GPS, or a simulated car to try it right away. Worldwide track search as you type, a catalog of 60+ famous circuits and a satellite editor for the start line and sectors. Lap analysis inspired by RaceChrono: compare with any lap or your track record, one cursor across map and charts, corner speeds, where you gain and lose, sectors and a friction circle; voice lap times, GPX and CSV export. With friends: chase a friend's lap shared as a file, live groups with standings and gaps on track, online leaderboards for every circuit. In Italian, English, Spanish, French, German and Portuguese.",
+      "localizedDescription": "Lap, sector and live delta timing from GPS, for track days: any ESP32 with Bluetooth and a GPS (firmware installed from the browser at esp32.tbsgaming.win, with a dashboard on the Waveshare ESP32-C6-LCD-1.47), the iPhone's own GPS, or a simulated car to try it right away. Worldwide track search as you type, a catalog of 60+ famous circuits and a satellite editor for the start line and sectors. Lap analysis inspired by RaceChrono: compare with any lap or your track record, one cursor across map and charts, corner speeds, where you gain and lose, sectors and a friction circle; voice lap times, GPX and CSV export. With friends: chase a friend's lap shared as a file, live groups with standings and gaps on track, online leaderboards for every circuit. Drag mode like a performance meter: 0-100, quarter mile, rolling 80-120 and 100-0 braking with automatic start, records and the ESP32 dashboard. In Italian, English, Spanish, French, German and Portuguese.",
       "subtitle": "GPS lap timer for the track",
       "tintColor": "22D3EE",
       "versions": [
+        {
+          "version": "0.7.0",
+          "date": "2026-11-03T21:45:34Z",
+          "size": 1280104,
+          "downloadURL": "https://github.com/TheBlackSide243/feather-repo/releases/download/tracklap-0.7.0/TrackLap-0.7.0-unsigned.ipa"
+        },
         {
           "version": "0.6.0",
           "date": "2026-11-01T00:16:28Z",
@@ -155,10 +161,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "0.6.0",
-      "versionDate": "2026-11-01T00:16:28Z",
-      "size": 1126156,
-      "downloadURL": "https://github.com/TheBlackSide243/feather-repo/releases/download/tracklap-0.6.0/TrackLap-0.6.0-unsigned.ipa"
+      "version": "0.7.0",
+      "versionDate": "2026-11-03T21:45:34Z",
+      "size": 1280104,
+      "downloadURL": "https://github.com/TheBlackSide243/feather-repo/releases/download/tracklap-0.7.0/TrackLap-0.7.0-unsigned.ipa"
     }
   ],
   "news": []
