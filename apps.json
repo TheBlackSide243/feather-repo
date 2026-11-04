@@ -64,6 +64,12 @@
       "tintColor": "22D3EE",
       "versions": [
         {
+          "version": "0.8.1",
+          "date": "2026-11-04T11:27:59Z",
+          "size": 1705025,
+          "downloadURL": "https://github.com/TheBlackSide243/feather-repo/releases/download/tracklap-0.8.1/TrackLap-0.8.1-unsigned.ipa"
+        },
+        {
           "version": "0.8.0",
           "date": "2026-11-04T11:12:05Z",
           "size": 1637024,
@@ -116,19 +122,13 @@
           "date": "2026-10-30T08:52:10Z",
           "size": 816519,
           "downloadURL": "https://github.com/TheBlackSide243/feather-repo/releases/download/tracklap-0.3.0/TrackLap-0.3.0-unsigned.ipa"
-        },
-        {
-          "version": "0.2.0",
-          "date": "2026-10-30T06:22:49Z",
-          "size": 736408,
-          "downloadURL": "https://github.com/TheBlackSide243/feather-repo/releases/download/tracklap-0.2.0/TrackLap-0.2.0-unsigned.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "0.8.0",
-      "versionDate": "2026-11-04T11:12:05Z",
-      "size": 1637024,
-      "downloadURL": "https://github.com/TheBlackSide243/feather-repo/releases/download/tracklap-0.8.0/TrackLap-0.8.0-unsigned.ipa"
+      "version": "0.8.1",
+      "versionDate": "2026-11-04T11:27:59Z",
+      "size": 1705025,
+      "downloadURL": "https://github.com/TheBlackSide243/feather-repo/releases/download/tracklap-0.8.1/TrackLap-0.8.1-unsigned.ipa"
     }
   ],
   "news": []
