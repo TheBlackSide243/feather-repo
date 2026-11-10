@@ -165,7 +165,7 @@
       "downloadURL": "https://github.com/TheBlackSide243/feather-repo/releases/download/tracklap-0.10.0/TrackLap-Lite-0.10.0-unsigned.ipa"
     },
     {
-      "name": "Appunti",
+      "name": "Quaderno Appunti",
       "bundleIdentifier": "com.local.appunti",
       "developerName": "TheBlackSide243",
       "iconURL": "https://raw.githubusercontent.com/TheBlackSide243/feather-repo/main/icons/appunti.png",
@@ -174,41 +174,47 @@
       "tintColor": "FACC15",
       "versions": [
         {
+          "version": "0.3.2",
+          "date": "2026-11-10T22:19:32Z",
+          "size": 805888,
+          "downloadURL": "https://github.com/TheBlackSide243/quaderno-appunti-ios/releases/download/v0.3.2/Quaderno-Appunti-0.3.2-unsigned.ipa"
+        },
+        {
           "version": "0.3.1",
           "date": "2026-11-10T21:47:48Z",
           "size": 805004,
-          "downloadURL": "https://github.com/TheBlackSide243/appunti-ios/releases/download/v0.3.1/Appunti-0.3.1-unsigned.ipa"
+          "downloadURL": "https://github.com/TheBlackSide243/quaderno-appunti-ios/releases/download/v0.3.1/Appunti-0.3.1-unsigned.ipa"
         },
         {
           "version": "0.3.0",
           "date": "2026-11-10T18:48:40Z",
           "size": 720983,
-          "downloadURL": "https://github.com/TheBlackSide243/appunti-ios/releases/download/v0.3.0/Appunti-0.3.0-unsigned.ipa"
+          "downloadURL": "https://github.com/TheBlackSide243/quaderno-appunti-ios/releases/download/v0.3.0/Appunti-0.3.0-unsigned.ipa"
         },
         {
           "version": "0.2.2",
           "date": "2026-11-10T16:50:30Z",
           "size": 634253,
-          "downloadURL": "https://github.com/TheBlackSide243/appunti-ios/releases/download/v0.2.2/Appunti-0.2.2-unsigned.ipa"
+          "downloadURL": "https://github.com/TheBlackSide243/quaderno-appunti-ios/releases/download/v0.2.2/Appunti-0.2.2-unsigned.ipa"
         },
         {
           "version": "0.2.0",
           "date": "2026-11-10T16:15:11Z",
           "size": 590791,
-          "downloadURL": "https://github.com/TheBlackSide243/appunti-ios/releases/download/v0.2.0/Appunti-0.2.0-unsigned.ipa"
+          "downloadURL": "https://github.com/TheBlackSide243/quaderno-appunti-ios/releases/download/v0.2.0/Appunti-0.2.0-unsigned.ipa"
         },
         {
           "version": "0.1.0",
           "date": "2026-11-10T14:29:55Z",
           "size": 407416,
-          "downloadURL": "https://github.com/TheBlackSide243/appunti-ios/releases/download/v0.1.0/Appunti-0.1.0-unsigned.ipa"
+          "downloadURL": "https://github.com/TheBlackSide243/quaderno-appunti-ios/releases/download/v0.1.0/Appunti-0.1.0-unsigned.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "0.3.1",
-      "versionDate": "2026-11-10T21:47:48Z",
-      "size": 805004,
-      "downloadURL": "https://github.com/TheBlackSide243/appunti-ios/releases/download/v0.3.1/Appunti-0.3.1-unsigned.ipa"
+      "version": "0.3.2",
+      "versionDate": "2026-11-10T22:19:32Z",
+      "size": 805888,
+      "downloadURL": "https://github.com/TheBlackSide243/quaderno-appunti-ios/releases/download/v0.3.2/Quaderno-Appunti-0.3.2-unsigned.ipa"
     }
   ],
   "news": []

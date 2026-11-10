@@ -9,6 +9,6 @@
     "downloadURL": "https://github.com/TheBlackSide243/feather-repo/releases/download/tracklap-{version}/TrackLap-{version}-unsigned.ipa"
   },
   "com.local.appunti": {
-    "downloadURL": "https://github.com/TheBlackSide243/appunti-ios/releases/download/v{version}/Appunti-{version}-unsigned.ipa"
+    "downloadURL": "https://github.com/TheBlackSide243/quaderno-appunti-ios/releases/download/v{version}/Quaderno-Appunti-{version}-unsigned.ipa"
   }
 }
