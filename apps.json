@@ -165,34 +165,6 @@
       "downloadURL": "https://github.com/TheBlackSide243/feather-repo/releases/download/tracklap-0.10.0/TrackLap-Lite-0.10.0-unsigned.ipa"
     },
     {
-      "name": "Bradipo",
-      "bundleIdentifier": "com.local.bradipo",
-      "developerName": "TheBlackSide243",
-      "iconURL": "https://raw.githubusercontent.com/TheBlackSide243/feather-repo/main/icons/bradipo.png",
-      "localizedDescription": "Your own Unsloth Studio server, from the iPhone. Chat with the loaded model (live answers, reasoning, photos for vision models; chats shared with the Studio web page), load and unload models with GGUF quantization and context length, search Hugging Face with the memory each variant needs and download to the server, follow fine-tuning live with the loss chart and the GPU (usage, VRAM, temperature, power), start new LoRA / QLoRA / full runs, upload datasets, export checkpoints to GGUF, LoRA or merged 16-bit, manage API keys. Sign in with your Studio password or an API key. Unofficial client.",
-      "subtitle": "Unsloth Studio in your pocket",
-      "tintColor": "10B981",
-      "versions": [
-        {
-          "version": "0.1.1",
-          "date": "2026-11-09T18:13:41Z",
-          "size": 651116,
-          "downloadURL": "https://github.com/TheBlackSide243/bradipo-ios/releases/download/v0.1.1/Bradipo-0.1.1-unsigned.ipa"
-        },
-        {
-          "version": "0.1.0",
-          "date": "2026-11-09T06:06:49Z",
-          "size": 638609,
-          "downloadURL": "https://github.com/TheBlackSide243/bradipo-ios/releases/download/v0.1.0/Bradipo-0.1.0-unsigned.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "0.1.1",
-      "versionDate": "2026-11-09T18:13:41Z",
-      "size": 651116,
-      "downloadURL": "https://github.com/TheBlackSide243/bradipo-ios/releases/download/v0.1.1/Bradipo-0.1.1-unsigned.ipa"
-    },
-    {
       "name": "Appunti",
       "bundleIdentifier": "com.local.appunti",
       "developerName": "TheBlackSide243",
