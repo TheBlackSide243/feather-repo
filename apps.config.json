@@ -7,5 +7,8 @@
   },
   "com.local.appunti": {
     "downloadURL": "https://github.com/TheBlackSide243/quaderno-appunti-ios/releases/download/v{version}/Quaderno-Appunti-{version}-unsigned.ipa"
+  },
+  "com.local.shadowwear": {
+    "downloadURL": "https://github.com/TheBlackSide243/shadowwear-ios/releases/download/v{version}/ShadowWear-{version}-unsigned.ipa"
   }
 }
