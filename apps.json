@@ -33,34 +33,6 @@
       "downloadURL": "https://github.com/TheBlackSide243/openGym/releases/download/plus-1.4.4.4/openGym-plus-unsigned.ipa"
     },
     {
-      "name": "Wardrowbe",
-      "bundleIdentifier": "com.local.wardrowbe",
-      "developerName": "TheBlackSide243",
-      "iconURL": "https://raw.githubusercontent.com/TheBlackSide243/feather-repo/main/icons/wardrowbe.png",
-      "localizedDescription": "The Wardrowbe site full screen, sharing photos from other apps, a widget with today's outfit and the weather (with an \"I wore it\" button from iOS 17), photos without their background, shortcuts to Selfie and What to buy. It connects to your own Wardrowbe server.",
-      "subtitle": "Your wardrobe, on your own server",
-      "tintColor": "EC4899",
-      "versions": [
-        {
-          "version": "1.3.0",
-          "date": "2026-10-27T22:28:47Z",
-          "size": 265917,
-          "downloadURL": "https://github.com/TheBlackSide243/wardrowbe/releases/download/ios-1.3.0/Wardrowbe-1.3.0-unsigned.ipa"
-        },
-        {
-          "version": "1.2.0",
-          "date": "2026-10-15T10:32:00Z",
-          "size": 274890,
-          "downloadURL": "https://github.com/TheBlackSide243/wardrowbe/releases/download/ios-1.2.0/Wardrowbe-1.2.0-unsigned.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "1.3.0",
-      "versionDate": "2026-10-27T22:28:47Z",
-      "size": 265917,
-      "downloadURL": "https://github.com/TheBlackSide243/wardrowbe/releases/download/ios-1.3.0/Wardrowbe-1.3.0-unsigned.ipa"
-    },
-    {
       "name": "TrackLap",
       "bundleIdentifier": "com.local.tracklap",
       "developerName": "TheBlackSide243",

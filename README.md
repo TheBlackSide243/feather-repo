@@ -13,7 +13,6 @@ https://raw.githubusercontent.com/TheBlackSide243/feather-repo/main/apps.json
 | App | Cos'è | Codice e release |
 |---|---|---|
 | **openGym Plus** | Versione non ufficiale di [openGym](https://github.com/DuarteSantos8/openGym) con funzioni in più | [TheBlackSide243/openGym](https://github.com/TheBlackSide243/openGym/releases) (ramo `plus`) |
-| **Wardrowbe** | App iPhone per il tuo server [Wardrowbe](https://github.com/Anyesh/wardrowbe) | [TheBlackSide243/wardrowbe](https://github.com/TheBlackSide243/wardrowbe/releases) (release `ios-*`) |
 | **TrackLap** | Cronometro da pista con GPS: giri, intermedi e delta live, ESP32-C6 via Bluetooth | codice privato, `.ipa` nelle [release `tracklap-*`](https://github.com/TheBlackSide243/feather-repo/releases) di questo repo |
 
 Questo repo contiene l'elenco e le icone: le `.ipa` stanno nelle release di ogni progetto, tranne quelle delle app con il codice privato (TrackLap), che stanno nelle release di questo repo.
