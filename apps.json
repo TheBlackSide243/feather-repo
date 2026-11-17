@@ -217,11 +217,17 @@
       "bundleIdentifier": "com.local.shadowwear",
       "developerName": "TheBlackSide243",
       "iconURL": "https://raw.githubusercontent.com/TheBlackSide243/feather-repo/main/icons/shadowwear.png",
-      "localizedDescription": "Your closet on your iPhone. Photograph your clothes: ShadowWear removes the background on the device with Apple's Vision, recognises color and kind, and keeps everything in a grid with search, filters by kind, color and favorites, and several photos per piece. Everything stays on the phone and works without internet. Italian and English.",
+      "localizedDescription": "Your closet on your iPhone. Photograph your clothes: ShadowWear removes the background on the device, recognises color and kind, puts outfits together, suggests what to wear every day with the weather and keeps a diary of what you wore. Use it locally, with no account, or connect it to the ShadowWear server on your NAS: the closet is the same on iPhone, iPad and the website, and your home AI (Ollama) can describe pieces. Italian and English.",
       "subtitle": "Your closet, photographed",
       "tintColor": "A78BFA",
       "appPermissions": {},
       "versions": [
+        {
+          "version": "0.3.0",
+          "date": "2026-11-17T04:49:26Z",
+          "size": 683927,
+          "downloadURL": "https://github.com/TheBlackSide243/shadowwear-ios/releases/download/v0.3.0/ShadowWear-0.3.0-unsigned.ipa"
+        },
         {
           "version": "0.2.0",
           "date": "2026-11-16T21:14:58Z",
@@ -247,10 +253,10 @@
           "downloadURL": "https://github.com/TheBlackSide243/shadowwear-ios/releases/download/v0.1.0/ShadowWear-0.1.0-unsigned.ipa"
         }
       ],
-      "version": "0.2.0",
-      "versionDate": "2026-11-16T21:14:58Z",
-      "size": 585150,
-      "downloadURL": "https://github.com/TheBlackSide243/shadowwear-ios/releases/download/v0.2.0/ShadowWear-0.2.0-unsigned.ipa"
+      "version": "0.3.0",
+      "versionDate": "2026-11-17T04:49:26Z",
+      "size": 683927,
+      "downloadURL": "https://github.com/TheBlackSide243/shadowwear-ios/releases/download/v0.3.0/ShadowWear-0.3.0-unsigned.ipa"
     }
   ],
   "news": []
