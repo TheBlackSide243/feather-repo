@@ -223,6 +223,12 @@
       "appPermissions": {},
       "versions": [
         {
+          "version": "0.5.2",
+          "date": "2026-11-18T06:47:15Z",
+          "size": 1230561,
+          "downloadURL": "https://github.com/TheBlackSide243/shadowwear-ios/releases/download/v0.5.2/ShadowWear-0.5.2-unsigned.ipa"
+        },
+        {
           "version": "0.5.1",
           "date": "2026-11-17T19:09:54Z",
           "size": 1218725,
@@ -277,10 +283,10 @@
           "downloadURL": "https://github.com/TheBlackSide243/shadowwear-ios/releases/download/v0.1.0/ShadowWear-0.1.0-unsigned.ipa"
         }
       ],
-      "version": "0.5.1",
-      "versionDate": "2026-11-17T19:09:54Z",
-      "size": 1218725,
-      "downloadURL": "https://github.com/TheBlackSide243/shadowwear-ios/releases/download/v0.5.1/ShadowWear-0.5.1-unsigned.ipa"
+      "version": "0.5.2",
+      "versionDate": "2026-11-18T06:47:15Z",
+      "size": 1230561,
+      "downloadURL": "https://github.com/TheBlackSide243/shadowwear-ios/releases/download/v0.5.2/ShadowWear-0.5.2-unsigned.ipa"
     }
   ],
   "news": []
