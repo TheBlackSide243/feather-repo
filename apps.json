@@ -152,6 +152,12 @@
       "tintColor": "FACC15",
       "versions": [
         {
+          "version": "1.5.0",
+          "date": "2026-11-20T16:19:40Z",
+          "size": 1888349,
+          "downloadURL": "https://github.com/TheBlackSide243/quaderno-appunti-ios/releases/download/v1.5.0/Quaderno-Appunti-1.5.0-unsigned.ipa"
+        },
+        {
           "version": "1.4.0",
           "date": "2026-11-16T18:46:12Z",
           "size": 1787901,
@@ -204,19 +210,13 @@
           "date": "2026-11-12T09:58:44Z",
           "size": 1145191,
           "downloadURL": "https://github.com/TheBlackSide243/quaderno-appunti-ios/releases/download/v0.7.0/Quaderno-Appunti-0.7.0-unsigned.ipa"
-        },
-        {
-          "version": "0.6.0",
-          "date": "2026-11-12T00:14:30Z",
-          "size": 1029585,
-          "downloadURL": "https://github.com/TheBlackSide243/quaderno-appunti-ios/releases/download/v0.6.0/Quaderno-Appunti-0.6.0-unsigned.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "1.4.0",
-      "versionDate": "2026-11-16T18:46:12Z",
-      "size": 1787901,
-      "downloadURL": "https://github.com/TheBlackSide243/quaderno-appunti-ios/releases/download/v1.4.0/Quaderno-Appunti-1.4.0-unsigned.ipa"
+      "version": "1.5.0",
+      "versionDate": "2026-11-20T16:19:40Z",
+      "size": 1888349,
+      "downloadURL": "https://github.com/TheBlackSide243/quaderno-appunti-ios/releases/download/v1.5.0/Quaderno-Appunti-1.5.0-unsigned.ipa"
     },
     {
       "name": "ShadowWear",
