@@ -225,9 +225,15 @@
       "iconURL": "https://raw.githubusercontent.com/TheBlackSide243/feather-repo/main/icons/shadowwear.png",
       "localizedDescription": "Your closet on your iPhone. Photograph your clothes: ShadowWear removes the background on the device, recognises color and kind, puts outfits together, suggests what to wear every day with the weather and keeps a diary of what you wore. Use it locally, with no account, or connect it to the ShadowWear server on your NAS: the closet is the same on iPhone, iPad and the website, and your home AI (Ollama) can describe pieces. Italian and English.",
       "subtitle": "Your closet, photographed",
-      "tintColor": "A78BFA",
+      "tintColor": "FF7A2E",
       "appPermissions": {},
       "versions": [
+        {
+          "version": "0.6.0",
+          "date": "2026-11-20T13:00:37Z",
+          "size": 1305956,
+          "downloadURL": "https://github.com/TheBlackSide243/shadowwear-ios/releases/download/v0.6.0/ShadowWear-0.6.0-unsigned.ipa"
+        },
         {
           "version": "0.5.6",
           "date": "2026-11-18T22:41:59Z",
@@ -281,18 +287,12 @@
           "date": "2026-11-17T05:10:39Z",
           "size": 685692,
           "downloadURL": "https://github.com/TheBlackSide243/shadowwear-ios/releases/download/v0.3.1/ShadowWear-0.3.1-unsigned.ipa"
-        },
-        {
-          "version": "0.3.0",
-          "date": "2026-11-17T04:49:26Z",
-          "size": 683927,
-          "downloadURL": "https://github.com/TheBlackSide243/shadowwear-ios/releases/download/v0.3.0/ShadowWear-0.3.0-unsigned.ipa"
         }
       ],
-      "version": "0.5.6",
-      "versionDate": "2026-11-18T22:41:59Z",
-      "size": 1282724,
-      "downloadURL": "https://github.com/TheBlackSide243/shadowwear-ios/releases/download/v0.5.6/ShadowWear-0.5.6-unsigned.ipa"
+      "version": "0.6.0",
+      "versionDate": "2026-11-20T13:00:37Z",
+      "size": 1305956,
+      "downloadURL": "https://github.com/TheBlackSide243/shadowwear-ios/releases/download/v0.6.0/ShadowWear-0.6.0-unsigned.ipa"
     }
   ],
   "news": []
