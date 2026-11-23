@@ -299,11 +299,17 @@
       "bundleIdentifier": "com.local.skiapex",
       "developerName": "TheBlackSide243",
       "iconURL": "https://raw.githubusercontent.com/TheBlackSide243/feather-repo/main/icons/skiapex.png",
-      "localizedDescription": "The diary of your days on skis. Tap Start at the bottom of the slope, put your iPhone in your pocket and ski: Ski Apex records the GPS with the screen off, measures altitude with the barometer and recognizes runs and lifts on its own. Top speed, vertical, distance, the map of the day with every run, altitude and speed charts, season totals and GPX export. Everything stays on your iPhone, with no account. Italian and English.",
+      "localizedDescription": "The diary of your days on skis. Tap Start, put your iPhone in your pocket and ski: Ski Apex records the GPS with the screen off and recognizes runs and lifts on its own. Piste and lift names with their difficulty, the weather of the day, a timeline, a replay on the map, the speed drawn along every run. Stats, records and a heat map; a guide to ski areas with the snow expected for 8 days; planned trips; season leaderboards with your friends. Lock screen and Dynamic Island, Siri, GPX import, backup. Your days stay on your iPhone. Italian and English.",
       "subtitle": "Your ski days, run by run",
       "tintColor": "5CCFFF",
       "appPermissions": {},
       "versions": [
+        {
+          "version": "0.2.0",
+          "date": "2026-11-23T11:03:27Z",
+          "size": 1121953,
+          "downloadURL": "https://github.com/TheBlackSide243/skiapex-ios/releases/download/v0.2.0/SkiApex-0.2.0-unsigned.ipa"
+        },
         {
           "version": "0.1.0",
           "date": "2026-11-23T08:37:18Z",
@@ -311,10 +317,10 @@
           "downloadURL": "https://github.com/TheBlackSide243/skiapex-ios/releases/download/v0.1.0/SkiApex-0.1.0-unsigned.ipa"
         }
       ],
-      "version": "0.1.0",
-      "versionDate": "2026-11-23T08:37:18Z",
-      "size": 616650,
-      "downloadURL": "https://github.com/TheBlackSide243/skiapex-ios/releases/download/v0.1.0/SkiApex-0.1.0-unsigned.ipa"
+      "version": "0.2.0",
+      "versionDate": "2026-11-23T11:03:27Z",
+      "size": 1121953,
+      "downloadURL": "https://github.com/TheBlackSide243/skiapex-ios/releases/download/v0.2.0/SkiApex-0.2.0-unsigned.ipa"
     }
   ],
   "news": []
