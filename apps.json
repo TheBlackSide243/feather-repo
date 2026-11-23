@@ -229,6 +229,12 @@
       "appPermissions": {},
       "versions": [
         {
+          "version": "0.10.0",
+          "date": "2026-11-23T13:16:41Z",
+          "size": 1482095,
+          "downloadURL": "https://github.com/TheBlackSide243/shadowwear-ios/releases/download/v0.10.0/ShadowWear-0.10.0-unsigned.ipa"
+        },
+        {
           "version": "0.9.0",
           "date": "2026-11-23T08:26:54Z",
           "size": 1474804,
@@ -281,18 +287,12 @@
           "date": "2026-11-18T06:47:15Z",
           "size": 1230561,
           "downloadURL": "https://github.com/TheBlackSide243/shadowwear-ios/releases/download/v0.5.2/ShadowWear-0.5.2-unsigned.ipa"
-        },
-        {
-          "version": "0.5.1",
-          "date": "2026-11-17T19:09:54Z",
-          "size": 1218725,
-          "downloadURL": "https://github.com/TheBlackSide243/shadowwear-ios/releases/download/v0.5.1/ShadowWear-0.5.1-unsigned.ipa"
         }
       ],
-      "version": "0.9.0",
-      "versionDate": "2026-11-23T08:26:54Z",
-      "size": 1474804,
-      "downloadURL": "https://github.com/TheBlackSide243/shadowwear-ios/releases/download/v0.9.0/ShadowWear-0.9.0-unsigned.ipa"
+      "version": "0.10.0",
+      "versionDate": "2026-11-23T13:16:41Z",
+      "size": 1482095,
+      "downloadURL": "https://github.com/TheBlackSide243/shadowwear-ios/releases/download/v0.10.0/ShadowWear-0.10.0-unsigned.ipa"
     },
     {
       "name": "Ski Apex",
