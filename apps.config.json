@@ -13,5 +13,8 @@
   },
   "com.local.shadowwear": {
     "downloadURL": "https://github.com/TheBlackSide243/shadowwear-ios/releases/download/v{version}/ShadowWear-{version}-unsigned.ipa"
+  },
+  "com.local.skiapex": {
+    "downloadURL": "https://github.com/TheBlackSide243/skiapex-ios/releases/download/v{version}/SkiApex-{version}-unsigned.ipa"
   }
 }

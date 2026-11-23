@@ -15,6 +15,7 @@ https://raw.githubusercontent.com/TheBlackSide243/feather-repo/main/apps.json
 | **openGym Plus** | Versione non ufficiale di [openGym](https://github.com/DuarteSantos8/openGym) con funzioni in più | [TheBlackSide243/openGym](https://github.com/TheBlackSide243/openGym/releases) (ramo `plus`) |
 | **TrackLap** | Cronometro da pista con GPS: giri, intermedi e delta live, ESP32-C6 via Bluetooth | codice privato, `.ipa` nelle [release `tracklap-*`](https://github.com/TheBlackSide243/feather-repo/releases) di questo repo |
 | **ShadowWear** | Il tuo armadio sull'iPhone: foto dei capi senza sfondo, colori e tipi riconosciuti, tutto sul telefono | [TheBlackSide243/shadowwear-ios](https://github.com/TheBlackSide243/shadowwear-ios/releases) |
+| **Ski Apex** | Il diario delle giornate sugli sci: discese e risalite riconosciute da sole, velocità, dislivello e mappa | [TheBlackSide243/skiapex-ios](https://github.com/TheBlackSide243/skiapex-ios/releases) |
 
 Questo repo contiene l'elenco e le icone: le `.ipa` stanno nelle release di ogni progetto, tranne quelle delle app con il codice privato (TrackLap), che stanno nelle release di questo repo.
 
