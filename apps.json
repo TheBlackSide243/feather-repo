@@ -305,6 +305,12 @@
       "appPermissions": {},
       "versions": [
         {
+          "version": "0.8.2",
+          "date": "2026-11-24T17:43:49Z",
+          "size": 11604135,
+          "downloadURL": "https://github.com/TheBlackSide243/skiapex-ios/releases/download/v0.8.2/SkiApex-0.8.2-unsigned.ipa"
+        },
+        {
           "version": "0.8.1",
           "date": "2026-11-24T13:57:54Z",
           "size": 11606411,
@@ -365,10 +371,10 @@
           "downloadURL": "https://github.com/TheBlackSide243/skiapex-ios/releases/download/v0.1.0/SkiApex-0.1.0-unsigned.ipa"
         }
       ],
-      "version": "0.8.1",
-      "versionDate": "2026-11-24T13:57:54Z",
-      "size": 11606411,
-      "downloadURL": "https://github.com/TheBlackSide243/skiapex-ios/releases/download/v0.8.1/SkiApex-0.8.1-unsigned.ipa"
+      "version": "0.8.2",
+      "versionDate": "2026-11-24T17:43:49Z",
+      "size": 11604135,
+      "downloadURL": "https://github.com/TheBlackSide243/skiapex-ios/releases/download/v0.8.2/SkiApex-0.8.2-unsigned.ipa"
     }
   ],
   "news": []
